@@ -30,3 +30,11 @@ Visual plots and representation:
 https://drive.google.com/file/d/1UIkVSDQ5n2mZa9ebgLufvyv74HQhftj2/view?usp=share_link
 
 https://drive.google.com/file/d/1BYzYu-N7AVlBakB2ABzzlaFwluFB2U9M/view?usp=share_link
+
+White Noise Pre Filter:
+
+https://drive.google.com/file/d/1dFTvsXee7R9DloARPygGNSExqyFDfUI0/view?usp=sharing
+
+White Noise Post Filter: 
+
+https://drive.google.com/file/d/15_Fd6Q0OaMtQFeVyrx_zOYLXCgpZh-tk/view?usp=share_link
